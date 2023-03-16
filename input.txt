@@ -1,0 +1,1 @@
+ Circle  9  89 10  Triangle  10 10 9  32 30  Rectangle  3 5  45 0 Triangle  8 8 4  67 4  Circle  6  34 1  Triangle  8 1 8  91 93  Rectangle  9 6  69 63 Triangle  4 4 1  64 98  Circle  3  40 52  Rectangle  6 8  81 51
